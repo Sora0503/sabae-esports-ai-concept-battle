@@ -1,0 +1,25 @@
+{
+ "title": "見本：カフェの2人",
+ "style": "flat color, clean lineart, soft cel shading",
+ "characters": [
+  {
+   "name": "ミオ",
+   "sex": "girl",
+   "look": "young woman, 24 years old, short brown bob hair, brown eyes, cream knit sweater, long skirt",
+   "ref": "D:/AI/NovelAI研究/画像/M_感情差分/M00_元_無表情.png"
+  },
+  {
+   "name": "ソウタ",
+   "sex": "boy",
+   "look": "adult man, 26 years old, plain-looking, short black hair, brown eyes, navy blue sweater, jeans",
+   "ref": ""
+  }
+ ],
+ "forbidden": [
+  "glasses",
+  "earrings",
+  "text on clothes",
+  "logo",
+  "extra people"
+ ]
+}
