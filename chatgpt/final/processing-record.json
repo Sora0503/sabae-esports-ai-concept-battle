@@ -1,0 +1,28 @@
+{
+  "timestamp_utc": "2026-10-30T14:20:25.103835+09:00",
+  "source": "D:\\AI\\Codex_tasks\\2026-10-30\\task-2\\source\\sabae-v2-original.png",
+  "source_sha256": "1230af055c73949a7d0532cc6dcf11cb11fea71c678637083e1ceb4fd15517d5",
+  "source_size": [
+    1122,
+    1402
+  ],
+  "output": "D:\\AI\\Codex_tasks\\2026-10-30\\task-2\\finished\\sabae-v2-3000x3750-lanczos_00001_.png",
+  "output_size": [
+    3000,
+    3750
+  ],
+  "format": "PNG",
+  "output_sha256": "ec9d1c2ce11de9380e35fcec0ff681642802285130de0b3ca65f8b48e1c19897",
+  "nodes": [
+    "LoadImage",
+    "ImageScale",
+    "SaveImage"
+  ],
+  "model": null,
+  "method": "lanczos",
+  "crop": "disabled",
+  "description": "Standard ComfyUI interpolation only; no generative reconstruction; all content retained.",
+  "qa_preview": "D:\\AI\\Codex_tasks\\2026-10-30\\task-2\\finished\\qa-v2-400x500_00001_.png",
+  "visual_comparison": "PASS: inspected original, full output and 400x500 ComfyUI preview. Faces, fingers, controllers, wheelchair, eyeglass architecture and lower monitor retain source appearance and composition. No additional cropping or generated changes. Small preview retains readable expressions and controllers; fine finger detail is naturally reduced.",
+  "visual_qa_timestamp_utc": "2026-10-30T05:20:53.2061920Z"
+}
