@@ -12,7 +12,7 @@
 |---|---|---|---|
 | 1位 | Claude | 2点 | [4人目は、あなた。](claude/README.md) |
 | 2位 | ChatGPT | 1点 | [となりのライバル、同じ未来。](chatgpt/README.md) |
-| 3位 | Grok | — | [同じまなざし](grok/concept.md) |
+| 3位 | Grok | — | [同じまなざし](grok/concept.md) / [本人提供の比較対象画像](grok/final/user-provided-comparison.jpg) |
 
 Grokの得点は結果発表では明示されていないため、推測して記載していません。各AIの投票先の一覧も、この記録では補っていません。
 
